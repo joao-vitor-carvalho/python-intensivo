@@ -15,4 +15,3 @@ pyautogui.alert()
 
 
 
-#transformar em executável após conclusão 
